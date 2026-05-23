@@ -1,0 +1,6 @@
+{
+  "name": "Shubham Graphics",
+  "description": "Minimalist premium financial dashboard for Shubham Graphics digital flex printing to track expenses, project investments, and materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
